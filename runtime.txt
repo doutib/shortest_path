@@ -1,0 +1,3 @@
+Dijkstra: 1.7440151056094183e-05 seconds
+Bellman-Ford: 0.00010530041334833795 seconds
+Floyd-Warshall: 0.00011402730046745154 seconds
